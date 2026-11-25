@@ -1,6 +1,6 @@
 import os
 
-TEXT = "Cozzle (v.) - to nudge an object two inches to the left while looking for it, in case that helps."
+TEXT = "Replapse (n.) - the relapse of replying to a text thread you had successfully escaped."
 
 
 def main():
